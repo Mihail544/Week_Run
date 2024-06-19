@@ -1,6 +1,8 @@
 ﻿// Main_Program.cs
 
 using System;
+using System.Collections.Generic;
+
 using Week.Task_for_my_week;
 
 class Main_Program

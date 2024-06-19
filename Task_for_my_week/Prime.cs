@@ -1,5 +1,11 @@
-namespace Week.Task_for_my_week;
+//Prime_numbers
 
+using System;
+using System.Collections.Generic;
+
+
+namespace Week.Task_for_my_week
+{
 public class Prime
 {
     public static void Prime_number()
@@ -52,4 +58,4 @@ public class Prime
         
     }
 }
-
+}
