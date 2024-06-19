@@ -3,9 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-
-namespace Week.Task_for_my_week
-{
+namespace Week.Task_for_my_week;
 public class Prime
 {
     public static void Prime_number()
@@ -57,5 +55,4 @@ public class Prime
         {Console.WriteLine($"Your number ({number}) is not prime.");}
         
     }
-}
 }
