@@ -4,7 +4,7 @@ public class Prime
 {
     public static void Prime_number()
     {
-        bool Is_Prime = false;
+        bool Is_Prime = true;
         int number = 0;
         
         while (true)
@@ -40,7 +40,7 @@ public class Prime
             {
                 if (number % x == 0)
                     
-                {Is_Prime = true; break;}
+                {Is_Prime = false; break;}
             }
 
         }
