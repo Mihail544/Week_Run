@@ -8,7 +8,7 @@ class Main_Program
     static void Main(string[] args)
     {
         //Odd_Even.Odd_Even_check();
-        //Prime.Prime_number();
+        Prime.Prime_number();
 
     }
 }
