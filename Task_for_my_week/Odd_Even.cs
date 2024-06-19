@@ -2,7 +2,7 @@ namespace Week.Task_for_my_week
 {
     public class Odd_Even
     {
-        public static void Odd_Even_check() // Направете метода публичен и статичен
+        public static void Odd_Even_check() 
         {
             int number = 0;
 
