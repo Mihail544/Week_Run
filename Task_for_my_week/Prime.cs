@@ -30,19 +30,26 @@ public class Prime
             
         }
         
-        if (number < 0) {Console.WriteLine("You need to give positive number.");}
-        else if (number == 1 || number == 2) {Console.WriteLine($"Your number ({number}) is Prime.");}
-        
-        else 
+        if (number <= 0) {Console.WriteLine("You need to give > 0 number.");}
+        else if (number == 1) {Console.WriteLine($"Your number ({number}) is notPrime.");}
+        else if (number == 2) {Console.WriteLine($"Your number ({number}) is Prime.");}
+
+        else
         {
-            for (int num = number -1; num > 2; num-=1)
+            for (int x = 2;x <= Math.Sqrt(number);x += 1)
             {
-                if (Is_Prime) {Console.WriteLine($"Your number {number} is Prime."); break;}
-                if (number % num == 0) {Is_Prime = true;}
+                if (number % x == 0)
+                    
+                {Is_Prime = true; break;}
             }
-            
-            if (Is_Prime == false) {Console.WriteLine($"Your number is notPrime {number}");}
+
         }
+        
+        if (Is_Prime)
+        {Console.WriteLine($"Your number ({number}) is prime.");}
+        else
+        {Console.WriteLine($"Your number ({number}) is not prime.");}
+        
     }
 }
 
