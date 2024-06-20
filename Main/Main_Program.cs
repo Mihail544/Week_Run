@@ -9,14 +9,15 @@ class Main_Program
 {
     static void Main(string[] args)
     {
-        //Odd_Even.Odd_Even_check();          // day 1
+        //Odd_Even.Odd_Even_check();                // day 1
         
-        //Prime.Prime_number();              // day 2
+        //Prime.Prime_number();                     // day 2
         //Sum_of_Multiples.Sum_Multiples();  
         
-        //Fibonacci.Fibonacci_Calculator(); // day 3
+        //Fibonacci.Fibonacci_Calculator();         // day 3
         //Palindrome_Check.Palindrome_Checker();
-        Longest_Word.Find_Longest_Word();
+        //Longest_Word.Find_Longest_Word();
+        Reverse_Sentence.Sentence_Reverser();
 
     }
 }

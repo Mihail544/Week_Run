@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace Week.Task_for_my_week;
 
 
-public class Longest_Word
+public class Longest_Wordcgfv
 {
     public static void Find_Longest_Word()
     {
