@@ -11,7 +11,8 @@ class Main_Program
     {
         //Odd_Even.Odd_Even_check();
         //Prime.Prime_number();
-        Sum_of_Multiples.Sum_Multiples();
+        //Sum_of_Multiples.Sum_Multiples();
+        Fibonacci.Fibonacci_Calculator();
 
     }
 }
