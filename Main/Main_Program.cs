@@ -21,7 +21,7 @@ class Main_Program
         //Factorial_of_a_Number.Factorial();
         
         //Sorting_an_Array.Sort_Array();            // day 4
-        
+        Counting_Vowels.Counting_Vowels_Consonants();
         
     }
 }
