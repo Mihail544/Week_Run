@@ -18,7 +18,10 @@ class Main_Program
         //Palindrome_Check.Palindrome_Checker();
         //Longest_Word.Find_Longest_Word();
         //Reverse_Sentence.Sentence_Reverser();
-        Factorial_of_a_Number.Factorial();
+        //Factorial_of_a_Number.Factorial();
+        
+        //Sorting_an_Array.Sort_Array();            // day 4
+        
         
     }
 }
