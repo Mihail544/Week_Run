@@ -25,6 +25,7 @@ class Main_Program
         
         
         //Text_Processing.Text_List_Processing();   // day 5
-        String_Manipulation.String_Manipulator();
+        //String_Manipulation.String_Manipulator();
+        Palindrome_2_0.New_Palindrome_Check();
     }
 }

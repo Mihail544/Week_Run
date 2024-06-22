@@ -1,4 +1,5 @@
-//String / int count 
+//String / int count   // Името е променено защо ми се струва по-нормалоно
+//Но съм оставил namespace, class name etc...
 
 
 using System;
