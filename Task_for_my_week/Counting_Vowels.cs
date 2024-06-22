@@ -2,7 +2,6 @@
 
 using System;
 using System.Collections.Generic;
-using System;
 
 namespace Week.Task_for_my_week
 {
