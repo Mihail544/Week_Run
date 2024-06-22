@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e3ee89c-e8d3-476c-aec8-d1cf17ae6baf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Task_for_my_week/Main_Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task_for_my_week/Main_Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_for_my_week/String_Manipulation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Week/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Week/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Main_Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main_Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +100,8 @@
       <updated>1718782357321</updated>
       <workItem from="1718782358409" duration="24982000" />
       <workItem from="1718872738971" duration="15005000" />
+      <workItem from="1718917078137" duration="32593000" />
+      <workItem from="1719069681556" duration="1969000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
