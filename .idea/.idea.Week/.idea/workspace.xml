@@ -8,10 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e3ee89c-e8d3-476c-aec8-d1cf17ae6baf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task_for_my_week/Palindrome_2.0.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_for_my_week/Suns_2019.puv2.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Week/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Week/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main/Main_Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main_Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_for_my_week/String_Manipulation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task_for_my_week/String_Manipulation.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Week.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Week.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\mihos\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\mihos\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\mihos\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\mihos\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\mihos\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\mihos\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Week" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -102,7 +103,10 @@
       <workItem from="1718782358409" duration="24982000" />
       <workItem from="1718872738971" duration="15005000" />
       <workItem from="1718917078137" duration="32593000" />
-      <workItem from="1719069681556" duration="4127000" />
+      <workItem from="1719069681556" duration="6778000" />
+      <workItem from="1719155482833" duration="1398000" />
+      <workItem from="1719243185494" duration="232000" />
+      <workItem from="1719254827354" duration="21231000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
