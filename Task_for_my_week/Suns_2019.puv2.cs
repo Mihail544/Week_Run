@@ -85,6 +85,7 @@ public class Suns_distance
                 if (constellation.Length > 30) {Console.WriteLine("Invalid answer >30"); continue;}
                 stars_constellation.Add(constellation);
                 Console.WriteLine("Congrats you add your star successfully");
+                number_of_suns += 1;
             }
             
 
@@ -134,16 +135,16 @@ public class Suns_distance
                                           $" {items.stars_distance} (light years)," +
                                           $" {items.stars_class} class," +
                                           $" {items.stars_mass} (times sun mass)," +
-                                          $" from {items.stars_constellation}\n");                    }
+                                          $" from {items.stars_constellation}\n");
+                    }
                     
                     foreach (var items in average_mass_by_constellation)
                     {
                         Console.WriteLine($"The Constellation {items.Constellation} is with {items.AverageMass} average mass");
                     }
-
+                    
+                    
                 }
-                
-                
             }
         }
     }

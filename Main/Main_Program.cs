@@ -28,6 +28,7 @@ class Main_Program
         //String_Manipulation.String_Manipulator();
         //Palindrome_2_0.New_Palindrome_Check();
         
-        Suns_distance.Suns_data();                  //day 6
+        //Suns_distance.Suns_data();                  //day 6
+        KetFood_2022.Food_storage();
     } 
 }
